@@ -1,7 +1,9 @@
 # FantasyFootballV2
  Predictive modeling of Fantasy Football players
 
- This is an ongoing project to play around with fantasy football player data and generate a predictive model for yearly stats.
+This is an ongoing project to play around with fantasy football player data and generate a predictive model for yearly stats.
+
+My current data source is FantasyPros github yearly spreadsheets: https://github.com/fantasydatapros/data
 
 INITIAL COMMIT UPDATE 2/23/22:
 Right now all I have for V2 is all the player as json files with makePlayers.py, but I'll be implementing a K Nearest Neighbors model soon.
