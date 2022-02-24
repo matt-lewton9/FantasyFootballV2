@@ -13,7 +13,7 @@ def getCategories(startYear, endYear):
     Categories = []
 
     for year in range(startYear, endYear): #iterate through all years to 2020
-        datasheet = f"yearly/{year}.csv" #make datasheet string
+        datasheet = f"data/yearly/{year}.csv" #make datasheet string
        
         with open(datasheet, newline='') as csvfile: #open datasheet and make reader
             reader = csv.DictReader(csvfile)
@@ -34,7 +34,7 @@ def getPlayerDict(Categories, startYear, endYear): #get a player master dictiona
     Players = {} #init emtpy player dict
     
     for year in range(startYear, endYear): #iterate through all years to 2020
-            datasheet = f"yearly/{year}.csv" #make datasheet string
+            datasheet = f"data/yearly/{year}.csv" #make datasheet string
         
             with open(datasheet, newline='') as csvfile: #open datasheet and make reader
                 reader = csv.DictReader(csvfile)

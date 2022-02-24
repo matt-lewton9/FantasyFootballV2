@@ -1,23 +1,23 @@
 {
     "Pos": "WR",
     "2020": {
-        "Tm": "SEA",
+        "Tm": "NWE",
         "Pos": "WR",
         "Age": "24",
         "G": "13",
-        "GS": "0",
-        "Rec": "1",
+        "GS": "2",
+        "Rec": "5",
         "PassingYds": "0",
         "PassingTD": "0",
         "PassingAtt": "0",
-        "RushingYds": "19",
+        "RushingYds": "23",
         "RushingTD": "0",
-        "RushingAtt": "1",
-        "ReceivingYds": "3",
-        "ReceivingTD": "0",
-        "FantasyPoints": "2",
+        "RushingAtt": "5",
+        "ReceivingYds": "62",
+        "ReceivingTD": "1",
+        "FantasyPoints": "21",
         "Int": "0",
-        "Fumbles": "0",
+        "Fumbles": "1",
         "FumblesLost": "0"
     }
 }
