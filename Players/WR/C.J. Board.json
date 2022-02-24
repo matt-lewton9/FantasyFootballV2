@@ -1,0 +1,43 @@
+{
+    "Pos": "WR",
+    "2019": {
+        "Tm": "JAX",
+        "Pos": "WR",
+        "Age": "26.0",
+        "G": "4.0",
+        "GS": "0.0",
+        "Rec": "2.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "31.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "5.1",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "NYG",
+        "Pos": "WR",
+        "Age": "27",
+        "G": "14",
+        "GS": "4",
+        "Rec": "11",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "3",
+        "RushingTD": "0",
+        "RushingAtt": "1",
+        "ReceivingYds": "101",
+        "ReceivingTD": "0",
+        "FantasyPoints": "10",
+        "Int": "0",
+        "Fumbles": "0",
+        "FumblesLost": "0"
+    }
+}

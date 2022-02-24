@@ -1,0 +1,43 @@
+{
+    "Pos": "TE",
+    "2019": {
+        "Tm": "OAK",
+        "Pos": "TE",
+        "Age": "22.0",
+        "G": "13.0",
+        "GS": "7.0",
+        "Rec": "21.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "174.0",
+        "ReceivingTD": "5.0",
+        "FantasyPoints": "68.4",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "LVR",
+        "Pos": "TE",
+        "Age": "23",
+        "G": "16",
+        "GS": "2",
+        "Rec": "7",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "0",
+        "RushingTD": "0",
+        "RushingAtt": "0",
+        "ReceivingYds": "140",
+        "ReceivingTD": "2",
+        "FantasyPoints": "26",
+        "Int": "0",
+        "Fumbles": "0",
+        "FumblesLost": "0"
+    }
+}

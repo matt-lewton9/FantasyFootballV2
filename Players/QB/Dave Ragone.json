@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "2003": {
+        "Tm": "HOU",
+        "Pos": "QB",
+        "Age": "24.0",
+        "G": "2.0",
+        "GS": "2.0",
+        "Rec": "1.0",
+        "PassingYds": "135.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "40.0",
+        "RushingYds": "51.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "6.0",
+        "ReceivingYds": "-5.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "7.0",
+        "Int": "1.0",
+        "Fumbles": "4.0",
+        "FumblesLost": "1.0"
+    }
+}

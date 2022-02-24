@@ -1,0 +1,43 @@
+{
+    "Pos": "RB",
+    "1989": {
+        "Tm": "DEN",
+        "Pos": "RB",
+        "Age": "24.0",
+        "G": "16.0",
+        "GS": "3.0",
+        "Rec": "10.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "108.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "30.0",
+        "ReceivingYds": "69.0",
+        "ReceivingTD": "3.0",
+        "FantasyPoints": "51.7",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "1990": {
+        "Tm": "DEN",
+        "Pos": "RB",
+        "Age": "25.0",
+        "G": "16.0",
+        "GS": "3.0",
+        "Rec": "29.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "82.0",
+        "RushingTD": "3.0",
+        "RushingAtt": "27.0",
+        "ReceivingYds": "276.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "82.8",
+        "Int": "0.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "0.0"
+    }
+}

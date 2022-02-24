@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "2016": {
+        "Tm": "DEN",
+        "Pos": "QB",
+        "Age": "22.0",
+        "G": "3.0",
+        "GS": "2.0",
+        "Rec": "0.0",
+        "PassingYds": "497.0",
+        "PassingTD": "2.0",
+        "PassingAtt": "83.0",
+        "RushingYds": "25.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "11.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "28.38",
+        "Int": "1.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "0.0"
+    },
+    "2017": {
+        "Tm": "DEN",
+        "Pos": "QB",
+        "Age": "23.0",
+        "G": "2.0",
+        "GS": "2.0",
+        "Rec": "0.0",
+        "PassingYds": "295.0",
+        "PassingTD": "2.0",
+        "PassingAtt": "45.0",
+        "RushingYds": "30.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "5.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "14.8",
+        "Int": "3.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "1.0"
+    }
+}

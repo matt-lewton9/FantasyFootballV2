@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "1985": {
+        "Tm": "RAM",
+        "Pos": "QB",
+        "Age": "34.0",
+        "G": "15.0",
+        "GS": "15.0",
+        "Rec": "0.0",
+        "PassingYds": "2658.0",
+        "PassingTD": "16.0",
+        "PassingAtt": "365.0",
+        "RushingYds": "38.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "20.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "136.12",
+        "Int": "13.0",
+        "Fumbles": "6.0",
+        "FumblesLost": "0.0"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Pos": "WR",
+    "2010": {
+        "Tm": "CAR",
+        "Pos": "WR",
+        "Age": "23.0",
+        "G": "15.0",
+        "GS": "13.0",
+        "Rec": "37.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "2.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "3.0",
+        "ReceivingYds": "508.0",
+        "ReceivingTD": "3.0",
+        "FantasyPoints": "106.0",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    },
+    "2012": {
+        "Tm": "CAR",
+        "Pos": "0",
+        "Age": "25.0",
+        "G": "2.0",
+        "GS": "0.0",
+        "Rec": "0.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "0.0",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

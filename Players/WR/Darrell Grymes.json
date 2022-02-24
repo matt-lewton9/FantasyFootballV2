@@ -1,0 +1,23 @@
+{
+    "Pos": "WR",
+    "1987": {
+        "Tm": "DET",
+        "Pos": "WR",
+        "Age": "26.0",
+        "G": "2.0",
+        "GS": "2.0",
+        "Rec": "9.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "140.0",
+        "ReceivingTD": "2.0",
+        "FantasyPoints": "35.0",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

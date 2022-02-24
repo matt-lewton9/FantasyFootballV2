@@ -1,0 +1,43 @@
+{
+    "Pos": "TE",
+    "2012": {
+        "Tm": "NYJ",
+        "Pos": "TE",
+        "Age": "25.0",
+        "G": "16.0",
+        "GS": "3.0",
+        "Rec": "11.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "83.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "19.3",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2013": {
+        "Tm": "NYJ",
+        "Pos": "TE",
+        "Age": "26.0",
+        "G": "10.0",
+        "GS": "0.0",
+        "Rec": "1.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "7.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "1.7",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

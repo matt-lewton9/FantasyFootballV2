@@ -1,0 +1,23 @@
+{
+    "Pos": "RB",
+    "1970": {
+        "Tm": "DEN",
+        "Pos": "RB",
+        "Age": "29.0",
+        "G": "12.0",
+        "GS": "12.0",
+        "Rec": "18.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "200.0",
+        "RushingTD": "5.0",
+        "RushingAtt": "69.0",
+        "ReceivingYds": "105.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "78.5",
+        "Int": "0.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "0.0"
+    }
+}

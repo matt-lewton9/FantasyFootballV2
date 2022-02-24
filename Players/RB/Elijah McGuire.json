@@ -1,0 +1,43 @@
+{
+    "Pos": "RB",
+    "2017": {
+        "Tm": "NYJ",
+        "Pos": "RB",
+        "Age": "23.0",
+        "G": "16.0",
+        "GS": "2.0",
+        "Rec": "17.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "315.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "88.0",
+        "ReceivingYds": "177.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "74.2",
+        "Int": "0.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "2.0"
+    },
+    "2018": {
+        "Tm": "NYJ",
+        "Pos": "RB",
+        "Age": "24.0",
+        "G": "8.0",
+        "GS": "3.0",
+        "Rec": "19.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "276.0",
+        "RushingTD": "3.0",
+        "RushingAtt": "92.0",
+        "ReceivingYds": "193.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "85.9",
+        "Int": "0.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "2.0"
+    }
+}

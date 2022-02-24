@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "1987": {
+        "Tm": "SDG",
+        "Pos": "QB",
+        "Age": "26.0",
+        "G": "3.0",
+        "GS": "2.0",
+        "Rec": "0.0",
+        "PassingYds": "367.0",
+        "PassingTD": "1.0",
+        "PassingAtt": "59.0",
+        "RushingYds": "41.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "6.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "24.78",
+        "Int": "1.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    }
+}

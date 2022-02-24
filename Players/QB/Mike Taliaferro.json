@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "1970": {
+        "Tm": "BOS",
+        "Pos": "QB",
+        "Age": "29.0",
+        "G": "11.0",
+        "GS": "4.0",
+        "Rec": "0.0",
+        "PassingYds": "871.0",
+        "PassingTD": "4.0",
+        "PassingAtt": "173.0",
+        "RushingYds": "11.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "3.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "19.940000000000005",
+        "Int": "11.0",
+        "Fumbles": "5.0",
+        "FumblesLost": "0.0"
+    },
+    "1972": {
+        "Tm": "BUF",
+        "Pos": "QB",
+        "Age": "31.0",
+        "G": "5.0",
+        "GS": "0.0",
+        "Rec": "0.0",
+        "PassingYds": "176.0",
+        "PassingTD": "1.0",
+        "PassingAtt": "33.0",
+        "RushingYds": "19.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "5.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "2.9399999999999995",
+        "Int": "4.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    }
+}

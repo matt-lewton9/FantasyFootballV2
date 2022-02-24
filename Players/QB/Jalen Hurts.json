@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "2020": {
+        "Tm": "PHI",
+        "Pos": "QB",
+        "Age": "22",
+        "G": "15",
+        "GS": "4",
+        "Rec": "1",
+        "PassingYds": "1061",
+        "PassingTD": "6",
+        "PassingAtt": "148",
+        "RushingYds": "354",
+        "RushingTD": "3",
+        "RushingAtt": "63",
+        "ReceivingYds": "3",
+        "ReceivingTD": "0",
+        "FantasyPoints": "108",
+        "Int": "4",
+        "Fumbles": "9",
+        "FumblesLost": "2"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Pos": "WR",
+    "1987": {
+        "Tm": "WAS",
+        "Pos": "WR",
+        "Age": "23.0",
+        "G": "3.0",
+        "GS": "2.0",
+        "Rec": "5.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "28.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "2.0",
+        "ReceivingYds": "112.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "31.0",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

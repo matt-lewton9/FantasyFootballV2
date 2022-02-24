@@ -1,0 +1,23 @@
+{
+    "Pos": "WR",
+    "2000": {
+        "Tm": "KAN",
+        "Pos": "WR",
+        "Age": "23.0",
+        "G": "15.0",
+        "GS": "14.0",
+        "Rec": "48.0",
+        "PassingYds": "31.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "1.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "678.0",
+        "ReceivingTD": "3.0",
+        "FantasyPoints": "129.04",
+        "Int": "0.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "3.0"
+    }
+}

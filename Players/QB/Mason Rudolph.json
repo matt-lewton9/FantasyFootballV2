@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "2019": {
+        "Tm": "PIT",
+        "Pos": "QB",
+        "Age": "24.0",
+        "G": "10.0",
+        "GS": "8.0",
+        "Rec": "0.0",
+        "PassingYds": "1765.0",
+        "PassingTD": "13.0",
+        "PassingAtt": "283.0",
+        "RushingYds": "42.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "21.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "108.8",
+        "Int": "9.0",
+        "Fumbles": "4.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "PIT",
+        "Pos": "QB",
+        "Age": "25",
+        "G": "5",
+        "GS": "1",
+        "Rec": "0",
+        "PassingYds": "324",
+        "PassingTD": "2",
+        "PassingAtt": "43",
+        "RushingYds": "-6",
+        "RushingTD": "0",
+        "RushingAtt": "7",
+        "ReceivingYds": "0",
+        "ReceivingTD": "0",
+        "FantasyPoints": "18",
+        "Int": "1",
+        "Fumbles": "0",
+        "FumblesLost": "0"
+    }
+}

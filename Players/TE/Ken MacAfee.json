@@ -1,0 +1,43 @@
+{
+    "Pos": "TE",
+    "1978": {
+        "Tm": "SFO",
+        "Pos": "TE",
+        "Age": "22.0",
+        "G": "13.0",
+        "GS": "13.0",
+        "Rec": "22.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "205.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "48.5",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "1979": {
+        "Tm": "SFO",
+        "Pos": "TE",
+        "Age": "23.0",
+        "G": "16.0",
+        "GS": "12.0",
+        "Rec": "24.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "266.0",
+        "ReceivingTD": "4.0",
+        "FantasyPoints": "74.6",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

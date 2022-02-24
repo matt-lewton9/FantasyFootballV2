@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "2020": {
+        "Tm": "LAC",
+        "Pos": "QB",
+        "Age": "22",
+        "G": "15",
+        "GS": "15",
+        "Rec": "0",
+        "PassingYds": "4336",
+        "PassingTD": "31",
+        "PassingAtt": "595",
+        "RushingYds": "234",
+        "RushingTD": "5",
+        "RushingAtt": "55",
+        "ReceivingYds": "0",
+        "ReceivingTD": "0",
+        "FantasyPoints": "333",
+        "Int": "10",
+        "Fumbles": "8",
+        "FumblesLost": "1"
+    }
+}

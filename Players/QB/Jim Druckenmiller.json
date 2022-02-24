@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "1997": {
+        "Tm": "SFO",
+        "Pos": "QB",
+        "Age": "25.0",
+        "G": "4.0",
+        "GS": "1.0",
+        "Rec": "0.0",
+        "PassingYds": "239.0",
+        "PassingTD": "1.0",
+        "PassingAtt": "52.0",
+        "RushingYds": "-6.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "10.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "4.960000000000001",
+        "Int": "4.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "1998": {
+        "Tm": "SFO",
+        "Pos": "QB",
+        "Age": "26.0",
+        "G": "2.0",
+        "GS": "0.0",
+        "Rec": "0.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "-4.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "3.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "-0.4",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

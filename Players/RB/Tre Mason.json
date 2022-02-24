@@ -1,0 +1,43 @@
+{
+    "Pos": "RB",
+    "2014": {
+        "Tm": "STL",
+        "Pos": "RB",
+        "Age": "21.0",
+        "G": "12.0",
+        "GS": "9.0",
+        "Rec": "16.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "765.0",
+        "RushingTD": "4.0",
+        "RushingAtt": "179.0",
+        "ReceivingYds": "148.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "135.3",
+        "Int": "0.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "1.0"
+    },
+    "2015": {
+        "Tm": "STL",
+        "Pos": "RB",
+        "Age": "22.0",
+        "G": "13.0",
+        "GS": "3.0",
+        "Rec": "18.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "207.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "75.0",
+        "ReceivingYds": "88.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "51.5",
+        "Int": "0.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "1.0"
+    }
+}

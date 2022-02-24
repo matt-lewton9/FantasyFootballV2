@@ -1,0 +1,23 @@
+{
+    "Pos": "WR",
+    "1984": {
+        "Tm": "CLE",
+        "Pos": "WR",
+        "Age": "21.0",
+        "G": "14.0",
+        "GS": "1.0",
+        "Rec": "7.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "6.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "1.0",
+        "ReceivingYds": "119.0",
+        "ReceivingTD": "2.0",
+        "FantasyPoints": "27.5",
+        "Int": "0.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "0.0"
+    }
+}

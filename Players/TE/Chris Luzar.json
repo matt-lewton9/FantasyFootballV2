@@ -1,0 +1,43 @@
+{
+    "Pos": "TE",
+    "2002": {
+        "Tm": "JAX",
+        "Pos": "TE",
+        "Age": "23.0",
+        "G": "12.0",
+        "GS": "0.0",
+        "Rec": "1.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "5.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "1.5",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2003": {
+        "Tm": "JAX",
+        "Pos": "TE",
+        "Age": "24.0",
+        "G": "11.0",
+        "GS": "1.0",
+        "Rec": "3.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "30.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "6.0",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Pos": "WR",
+    "2003": {
+        "Tm": "DEN",
+        "Pos": "WR",
+        "Age": "23.0",
+        "G": "11.0",
+        "GS": "0.0",
+        "Rec": "2.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "10.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "1.0",
+        "ReceivingYds": "10.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "2.0",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "1.0"
+    }
+}

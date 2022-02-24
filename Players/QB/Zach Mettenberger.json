@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "2014": {
+        "Tm": "TEN",
+        "Pos": "QB",
+        "Age": "23.0",
+        "G": "7.0",
+        "GS": "6.0",
+        "Rec": "0.0",
+        "PassingYds": "1412.0",
+        "PassingTD": "8.0",
+        "PassingAtt": "179.0",
+        "RushingYds": "4.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "5.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "70.88",
+        "Int": "7.0",
+        "Fumbles": "4.0",
+        "FumblesLost": "2.0"
+    },
+    "2015": {
+        "Tm": "TEN",
+        "Pos": "QB",
+        "Age": "24.0",
+        "G": "7.0",
+        "GS": "4.0",
+        "Rec": "0.0",
+        "PassingYds": "935.0",
+        "PassingTD": "4.0",
+        "PassingAtt": "166.0",
+        "RushingYds": "8.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "9.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "42.2",
+        "Int": "7.0",
+        "Fumbles": "4.0",
+        "FumblesLost": "2.0"
+    }
+}

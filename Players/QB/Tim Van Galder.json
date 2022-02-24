@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "1972": {
+        "Tm": "STL",
+        "Pos": "QB",
+        "Age": "28.0",
+        "G": "5.0",
+        "GS": "5.0",
+        "Rec": "0.0",
+        "PassingYds": "434.0",
+        "PassingTD": "1.0",
+        "PassingAtt": "79.0",
+        "RushingYds": "28.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "9.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "4.16",
+        "Int": "7.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "0.0"
+    }
+}

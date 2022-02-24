@@ -1,0 +1,43 @@
+{
+    "Pos": "WR",
+    "2019": {
+        "Tm": "PIT",
+        "Pos": "WR",
+        "Age": "23.0",
+        "G": "16.0",
+        "GS": "12.0",
+        "Rec": "59.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "41.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "4.0",
+        "ReceivingYds": "680.0",
+        "ReceivingTD": "5.0",
+        "FantasyPoints": "157.1",
+        "Int": "0.0",
+        "Fumbles": "5.0",
+        "FumblesLost": "2.0"
+    },
+    "2020": {
+        "Tm": "PIT",
+        "Pos": "WR",
+        "Age": "24",
+        "G": "15",
+        "GS": "13",
+        "Rec": "88",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "15",
+        "RushingTD": "0",
+        "RushingAtt": "3",
+        "ReceivingYds": "923",
+        "ReceivingTD": "7",
+        "FantasyPoints": "134",
+        "Int": "0",
+        "Fumbles": "2",
+        "FumblesLost": "1"
+    }
+}

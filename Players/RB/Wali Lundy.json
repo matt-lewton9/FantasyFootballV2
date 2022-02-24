@@ -1,0 +1,23 @@
+{
+    "Pos": "RB",
+    "2006": {
+        "Tm": "HOU",
+        "Pos": "RB",
+        "Age": "23.0",
+        "G": "14.0",
+        "GS": "8.0",
+        "Rec": "33.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "476.0",
+        "RushingTD": "4.0",
+        "RushingAtt": "124.0",
+        "ReceivingYds": "204.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "123.0",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "1.0"
+    }
+}

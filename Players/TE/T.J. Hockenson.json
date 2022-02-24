@@ -1,0 +1,43 @@
+{
+    "Pos": "TE",
+    "2019": {
+        "Tm": "DET",
+        "Pos": "TE",
+        "Age": "22.0",
+        "G": "12.0",
+        "GS": "7.0",
+        "Rec": "32.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "367.0",
+        "ReceivingTD": "2.0",
+        "FantasyPoints": "80.7",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "DET",
+        "Pos": "TE",
+        "Age": "23",
+        "G": "16",
+        "GS": "16",
+        "Rec": "67",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "0",
+        "RushingTD": "0",
+        "RushingAtt": "1",
+        "ReceivingYds": "723",
+        "ReceivingTD": "6",
+        "FantasyPoints": "108",
+        "Int": "0",
+        "Fumbles": "1",
+        "FumblesLost": "1"
+    }
+}

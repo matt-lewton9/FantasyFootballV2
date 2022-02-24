@@ -1,0 +1,43 @@
+{
+    "Pos": "WR",
+    "1986": {
+        "Tm": "IND",
+        "Pos": "WR",
+        "Age": "24.0",
+        "G": "5.0",
+        "GS": "0.0",
+        "Rec": "2.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "34.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "5.4",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "1987": {
+        "Tm": "IND",
+        "Pos": "WR",
+        "Age": "25.0",
+        "G": "14.0",
+        "GS": "3.0",
+        "Rec": "20.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "339.0",
+        "ReceivingTD": "3.0",
+        "FantasyPoints": "71.9",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

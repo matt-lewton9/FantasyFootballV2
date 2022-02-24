@@ -1,0 +1,43 @@
+{
+    "Pos": "RB",
+    "2016": {
+        "Tm": "BAL",
+        "Pos": "RB",
+        "Age": "22.0",
+        "G": "12.0",
+        "GS": "0.0",
+        "Rec": "30.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "382.0",
+        "RushingTD": "2.0",
+        "RushingAtt": "88.0",
+        "ReceivingYds": "162.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "102.4",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    },
+    "2018": {
+        "Tm": "BAL",
+        "Pos": "RB",
+        "Age": "24.0",
+        "G": "6.0",
+        "GS": "0.0",
+        "Rec": "6.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "333.0",
+        "RushingTD": "2.0",
+        "RushingAtt": "60.0",
+        "ReceivingYds": "51.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "54.4",
+        "Int": "0.0",
+        "Fumbles": "2.0",
+        "FumblesLost": "1.0"
+    }
+}

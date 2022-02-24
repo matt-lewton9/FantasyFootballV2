@@ -1,0 +1,23 @@
+{
+    "Pos": "RB",
+    "1994": {
+        "Tm": "DEN",
+        "Pos": "RB",
+        "Age": "23.0",
+        "G": "16.0",
+        "GS": "4.0",
+        "Rec": "9.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "168.0",
+        "RushingTD": "3.0",
+        "RushingAtt": "56.0",
+        "ReceivingYds": "47.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "46.5",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "1.0"
+    }
+}

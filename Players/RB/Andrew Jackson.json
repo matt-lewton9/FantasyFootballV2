@@ -1,0 +1,23 @@
+{
+    "Pos": "RB",
+    "1987": {
+        "Tm": "HOU",
+        "Pos": "RB",
+        "Age": "23.0",
+        "G": "7.0",
+        "GS": "3.0",
+        "Rec": "10.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "232.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "60.0",
+        "ReceivingYds": "44.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "43.6",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Pos": "WR",
+    "2019": {
+        "Tm": "SEA",
+        "Pos": "WR",
+        "Age": "22.0",
+        "G": "16.0",
+        "GS": "15.0",
+        "Rec": "58.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "11.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "2.0",
+        "ReceivingYds": "900.0",
+        "ReceivingTD": "7.0",
+        "FantasyPoints": "185.1",
+        "Int": "0.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "3.0"
+    },
+    "2020": {
+        "Tm": "SEA",
+        "Pos": "WR",
+        "Age": "23",
+        "G": "16",
+        "GS": "16",
+        "Rec": "83",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "0",
+        "RushingTD": "0",
+        "RushingAtt": "0",
+        "ReceivingYds": "1303",
+        "ReceivingTD": "10",
+        "FantasyPoints": "188",
+        "Int": "0",
+        "Fumbles": "1",
+        "FumblesLost": "1"
+    }
+}

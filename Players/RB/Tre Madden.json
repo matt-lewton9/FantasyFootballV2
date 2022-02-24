@@ -1,0 +1,43 @@
+{
+    "Pos": "RB",
+    "2017": {
+        "Tm": "SEA",
+        "Pos": "RB",
+        "Age": "24.0",
+        "G": "8.0",
+        "GS": "3.0",
+        "Rec": "2.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "65.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "8.5",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2018": {
+        "Tm": "SEA",
+        "Pos": "RB",
+        "Age": "25.0",
+        "G": "14.0",
+        "GS": "3.0",
+        "Rec": "2.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "3.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "3.0",
+        "ReceivingYds": "35.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "5.8",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    }
+}

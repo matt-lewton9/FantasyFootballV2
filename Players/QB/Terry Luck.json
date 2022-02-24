@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "1977": {
+        "Tm": "CLE",
+        "Pos": "QB",
+        "Age": "25.0",
+        "G": "4.0",
+        "GS": "1.0",
+        "Rec": "1.0",
+        "PassingYds": "316.0",
+        "PassingTD": "1.0",
+        "PassingAtt": "50.0",
+        "RushingYds": "-2.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "3.0",
+        "ReceivingYds": "4.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "7.840000000000002",
+        "Int": "7.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    }
+}

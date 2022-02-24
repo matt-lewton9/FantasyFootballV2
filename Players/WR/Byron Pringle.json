@@ -1,0 +1,43 @@
+{
+    "Pos": "WR",
+    "2019": {
+        "Tm": "KAN",
+        "Pos": "WR",
+        "Age": "26.0",
+        "G": "16.0",
+        "GS": "0.0",
+        "Rec": "12.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "170.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "35.0",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "KAN",
+        "Pos": "WR",
+        "Age": "27",
+        "G": "13",
+        "GS": "3",
+        "Rec": "13",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "0",
+        "RushingTD": "0",
+        "RushingAtt": "0",
+        "ReceivingYds": "160",
+        "ReceivingTD": "1",
+        "FantasyPoints": "28",
+        "Int": "0",
+        "Fumbles": "0",
+        "FumblesLost": "0"
+    }
+}

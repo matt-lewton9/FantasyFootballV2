@@ -1,0 +1,43 @@
+{
+    "Pos": "TE",
+    "2019": {
+        "Tm": "NWE",
+        "Pos": "TE",
+        "Age": "24.0",
+        "G": "6.0",
+        "GS": "4.0",
+        "Rec": "6.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "0.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "0.0",
+        "ReceivingYds": "114.0",
+        "ReceivingTD": "1.0",
+        "FantasyPoints": "23.4",
+        "Int": "0.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "NWE",
+        "Pos": "TE",
+        "Age": "25",
+        "G": "12",
+        "GS": "12",
+        "Rec": "13",
+        "PassingYds": "0",
+        "PassingTD": "0",
+        "PassingAtt": "0",
+        "RushingYds": "0",
+        "RushingTD": "0",
+        "RushingAtt": "0",
+        "ReceivingYds": "199",
+        "ReceivingTD": "0",
+        "FantasyPoints": "18",
+        "Int": "0",
+        "Fumbles": "1",
+        "FumblesLost": "1"
+    }
+}

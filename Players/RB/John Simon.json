@@ -1,0 +1,43 @@
+{
+    "Pos": "RB",
+    "2002": {
+        "Tm": "TEN",
+        "Pos": "RB",
+        "Age": "24.0",
+        "G": "12.0",
+        "GS": "0.0",
+        "Rec": "16.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "18.0",
+        "RushingTD": "1.0",
+        "RushingAtt": "9.0",
+        "ReceivingYds": "167.0",
+        "ReceivingTD": "3.0",
+        "FantasyPoints": "56.5",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "1.0"
+    },
+    "2003": {
+        "Tm": "WAS",
+        "Pos": "RB",
+        "Age": "25.0",
+        "G": "4.0",
+        "GS": "0.0",
+        "Rec": "3.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "9.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "3.0",
+        "ReceivingYds": "21.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "6.0",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    }
+}

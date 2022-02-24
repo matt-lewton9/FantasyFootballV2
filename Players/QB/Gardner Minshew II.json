@@ -1,0 +1,23 @@
+{
+    "Pos": "QB",
+    "2020": {
+        "Tm": "JAX",
+        "Pos": "QB",
+        "Age": "24",
+        "G": "9",
+        "GS": "8",
+        "Rec": "1",
+        "PassingYds": "2259",
+        "PassingTD": "16",
+        "PassingAtt": "327",
+        "RushingYds": "153",
+        "RushingTD": "1",
+        "RushingAtt": "29",
+        "ReceivingYds": "0",
+        "ReceivingTD": "0",
+        "FantasyPoints": "160",
+        "Int": "5",
+        "Fumbles": "5",
+        "FumblesLost": "4"
+    }
+}

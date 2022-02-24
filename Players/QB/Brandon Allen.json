@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "2019": {
+        "Tm": "DEN",
+        "Pos": "QB",
+        "Age": "27.0",
+        "G": "3.0",
+        "GS": "3.0",
+        "Rec": "0.0",
+        "PassingYds": "515.0",
+        "PassingTD": "3.0",
+        "PassingAtt": "84.0",
+        "RushingYds": "39.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "10.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "32.5",
+        "Int": "2.0",
+        "Fumbles": "0.0",
+        "FumblesLost": "0.0"
+    },
+    "2020": {
+        "Tm": "CIN",
+        "Pos": "QB",
+        "Age": "28",
+        "G": "5",
+        "GS": "5",
+        "Rec": "0",
+        "PassingYds": "925",
+        "PassingTD": "5",
+        "PassingAtt": "142",
+        "RushingYds": "27",
+        "RushingTD": "0",
+        "RushingAtt": "13",
+        "ReceivingYds": "0",
+        "ReceivingTD": "0",
+        "FantasyPoints": "50",
+        "Int": "4",
+        "Fumbles": "1",
+        "FumblesLost": "1"
+    }
+}

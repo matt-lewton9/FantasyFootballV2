@@ -1,0 +1,23 @@
+{
+    "Pos": "RB",
+    "1998": {
+        "Tm": "STL",
+        "Pos": "RB",
+        "Age": "23.0",
+        "G": "11.0",
+        "GS": "3.0",
+        "Rec": "35.0",
+        "PassingYds": "0.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "0.0",
+        "RushingYds": "313.0",
+        "RushingTD": "3.0",
+        "RushingAtt": "88.0",
+        "ReceivingYds": "252.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "107.5",
+        "Int": "0.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "1.0"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Pos": "QB",
+    "1987": {
+        "Tm": "MIA",
+        "Pos": "QB",
+        "Age": "25.0",
+        "G": "3.0",
+        "GS": "3.0",
+        "Rec": "0.0",
+        "PassingYds": "604.0",
+        "PassingTD": "3.0",
+        "PassingAtt": "109.0",
+        "RushingYds": "98.0",
+        "RushingTD": "2.0",
+        "RushingAtt": "17.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "41.959999999999994",
+        "Int": "5.0",
+        "Fumbles": "3.0",
+        "FumblesLost": "0.0"
+    },
+    "1989": {
+        "Tm": "NYJ",
+        "Pos": "QB",
+        "Age": "27.0",
+        "G": "4.0",
+        "GS": "1.0",
+        "Rec": "0.0",
+        "PassingYds": "125.0",
+        "PassingTD": "0.0",
+        "PassingAtt": "25.0",
+        "RushingYds": "3.0",
+        "RushingTD": "0.0",
+        "RushingAtt": "2.0",
+        "ReceivingYds": "0.0",
+        "ReceivingTD": "0.0",
+        "FantasyPoints": "1.2999999999999998",
+        "Int": "1.0",
+        "Fumbles": "1.0",
+        "FumblesLost": "0.0"
+    }
+}
